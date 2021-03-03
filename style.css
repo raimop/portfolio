@@ -30,6 +30,11 @@ a {
   max-width: 32px;
 }
 
+.icon--firebase {
+  color: white;
+  max-width: .875em;
+}
+
 .profile--image {
   display: block;
   margin: 0 auto;
